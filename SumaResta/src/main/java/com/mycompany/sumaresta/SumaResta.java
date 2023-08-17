@@ -15,6 +15,10 @@ public class SumaResta {
         int a = 5;
         int b = 3;
         
+        int suma = sumar(a,b);
+        int resta = restar(a,b);
+        
+        
         
     }
 }
