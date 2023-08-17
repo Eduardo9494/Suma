@@ -18,6 +18,9 @@ public class SumaResta {
         int suma = sumar(a,b);
         int resta = restar(a,b);
         
+        System.out.println("la suma es : " + suma);
+        System.out.println("la resta es: " + resta);
+        
         
         
     }
