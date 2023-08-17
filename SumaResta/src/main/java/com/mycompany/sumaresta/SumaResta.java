@@ -20,8 +20,9 @@ public class SumaResta {
         
         System.out.println("la suma es : " + suma);
         System.out.println("la resta es: " + resta);
-        
-        
-        
+             
+    }
+    public static int sumar(int a , int b){
+        return a+b;
     }
 }
